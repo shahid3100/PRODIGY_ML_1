@@ -1,6 +1,6 @@
 # PRODIGY_ML_1
 
-Linear regression model to predict house prices based on their square footages.
+Linear regression model to predict house prices based on the square footages.
 
 ---
 
